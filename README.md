@@ -1,2 +1,2 @@
 ## Human Face Blurring
-#### This program will blur human face on live.Implemented using computer vision library.
+#### Blurring human faces on live camera using computer vision library
